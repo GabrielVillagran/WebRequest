@@ -1,0 +1,10 @@
+C:\Users\rubi-\Desktop\interfaces\webRequest\bin\Debug\webRequest.exe.config
+C:\Users\rubi-\Desktop\interfaces\webRequest\bin\Debug\webRequest.exe
+C:\Users\rubi-\Desktop\interfaces\webRequest\bin\Debug\webRequest.pdb
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.csprojAssemblyReference.cache
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.Form1.resources
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.Properties.Resources.resources
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.csproj.GenerateResource.cache
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.csproj.CoreCompileInputs.cache
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.exe
+C:\Users\rubi-\Desktop\interfaces\webRequest\obj\Debug\webRequest.pdb
